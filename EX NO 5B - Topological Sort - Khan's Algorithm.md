@@ -56,8 +56,8 @@ If not, print "Release cannot be scheduled".
 ```
 /*
 Program to implement Reverse a String
-Developed by: SANJAY K
-Register Number:  212223220094
+Developed by: ABISHEIK R
+Register Number:  212223040005
 */
 import java.util.*;
 
